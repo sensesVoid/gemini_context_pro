@@ -1,0 +1,69 @@
+{
+  "created": "2025-07-18T23:29:18.999850",
+  "roles": {
+    "analyst": {
+      "last_updated": "2025-07-19T10:00:00Z",
+      "contributions": [
+        {
+          "role": "analyst",
+          "task": "Conduct user research",
+          "timestamp": "2025-07-19T10:00:00Z",
+          "output_summary": "Completed user research and created 3 user personas.",
+          "source_files": ["01_planning/analyst.md", "00_setup/prd_template.md"]
+        }
+      ]
+    },
+    "product_manager": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "architect": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "scrum_master": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "developer": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "qa": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "feedback": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "enhancements": {
+      "last_updated": null,
+      "contributions": []
+    },
+    "retro": {
+      "last_updated": null,
+      "contributions": []
+    }
+  },
+  "code_changes": [
+    {
+      "file": "ALL",
+      "description": "Added standardized roles, criteria, and checklists",
+      "timestamp": "2025-07-18T23:31:18.411462"
+    }
+  ],
+  "log": [
+    {
+      "event": "Structure update",
+      "details": "Streamlined all role files with objectives, guidelines, and criteria.",
+      "timestamp": "2025-07-18T23:31:18.411589"
+    },
+    {
+      "event": "Gemini Orchestrator Context Expanded",
+      "details": "Added detailed rules, workflow, agent communication standards, and QA gates.",
+      "timestamp": "2025-07-18T23:34:22.517171"
+    }
+  ],
+  "structure_version": "2.0"
+}
